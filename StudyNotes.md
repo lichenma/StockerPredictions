@@ -12,4 +12,4 @@ After installing the required libraries, the first thing we need to do is import
 from stocker import Stocker
 ```
 
-
+We now have the Stocker class in our Python session, and we can use it to create an instance of the class. In Python, an instance of a class is called an object and the act of creating an object is sometimes called instantiation or construction. In order to make a Stocker object we need to pass in the name of a valid stock ticker 
